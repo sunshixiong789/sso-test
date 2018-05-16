@@ -1,0 +1,5 @@
+rootProject.name = 'sso-test'
+include 'servse'
+include 'bower'
+include 'main'
+
