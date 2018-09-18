@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth
  * @author sunshixiong
  * @date 2018/5/16 10:49
  */
-@EnableOAuth2Sso
+
 @SpringBootApplication
 public class BowerApplication {
     public static void main(String[] args) {
